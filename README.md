@@ -1,5 +1,5 @@
 <a href="https://danial-tj.github.io/">
-  <img src="assets/vancouver-skyline.png" width="100%" alt="A pixel-art view of Vancouver across False Creek, with BC Place and Harbour Centre at dusk." />
+  <img src="assets/olympic-village.png" width="100%" alt="Pixel-art Vancouver from Olympic Village: a ferry dock across the foreground, BC Place across False Creek, and Harbour Centre in the distant right skyline." />
 </a>
 
 ### Building things. Staying curious.
