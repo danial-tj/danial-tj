@@ -1,5 +1,5 @@
 <a href="https://danial-tj.github.io/">
-  <img src="assets/vancouver-banner.png" width="100%" alt="Danial. Taking the scenic route. A pixel-art view of Vancouver across False Creek, with BC Place and Harbour Centre at dusk." />
+  <img src="assets/vancouver-skyline.png" width="100%" alt="A pixel-art view of Vancouver across False Creek, with BC Place and Harbour Centre at dusk." />
 </a>
 
 ### Building things. Staying curious.
