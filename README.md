@@ -2,7 +2,7 @@
   <img src="assets/olympic-village.png" width="100%" alt="Pixel-art Vancouver from Olympic Village: a ferry dock across the foreground, BC Place across False Creek, and Harbour Centre in the distant right skyline." />
 </a>
 
-### Building things. Staying curious.
+### Probably reading about the AI model that replaced the one I just finished reading about.
 
 I'm Danial, studying **Computer Science & Statistics at UBC**. I build across the web, desktop, and hardware, from tools for everyday reflection to a browser-controlled rover.
 
